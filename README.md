@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -295,7 +294,7 @@
             border: 1px solid rgba(255,255,255,0.1);
             color: #D1D5DB;
             padding: 8px; 
-            border-radius: 8px; 
+            borderradius: 8px; 
             cursor: pointer;
             display: flex; align-items: center; justify-content: center;
             transition: all 0.2s;
